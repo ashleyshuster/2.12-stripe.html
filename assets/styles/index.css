@@ -15,3 +15,10 @@
     background-color: darkorange;
     font-family: cursive;
 }
+
+.pug{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
