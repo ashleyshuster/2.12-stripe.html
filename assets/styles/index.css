@@ -1,0 +1,17 @@
+.test {
+    color: blue;
+    display: flex;
+    writing-mode: horizontal-tb;
+    font: 500;
+    border: darksalmon;
+    border-radius: 10%;
+    background-color: chartreuse;
+    margin: 4cm;
+    border-radius: 50%
+    align-items: center;
+}
+.stuff{
+    color: cornflowerblue;
+    background-color: darkorange;
+    font-family: cursive;
+}
